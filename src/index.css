@@ -47,6 +47,7 @@ main h2 {
   gap: 2rem;
   flex-wrap: wrap;
   justify-content: center;
+  text-align: center;
 }
 
 #core-concepts li {
